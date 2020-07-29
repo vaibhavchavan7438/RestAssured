@@ -5,7 +5,7 @@ import static io.restassured.RestAssured.*;
 import groovy.util.logging.Log;
 import io.restassured.parsing.Parser;
 import io.restassured.path.json.JsonPath;
-import pojo.getCourses;
+import pojo_deserialization.getCourses;
 public class OauthUsingGoogle {
 	
 	public static void main(String[] args) {

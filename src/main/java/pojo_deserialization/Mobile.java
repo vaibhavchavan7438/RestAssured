@@ -1,4 +1,4 @@
-package pojo;
+package pojo_deserialization;
 
 public class Mobile {
 	private String courseTitle;
